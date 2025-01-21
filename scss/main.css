@@ -285,7 +285,6 @@ body {
 }
 .blog__information {
   width: 450px;
-  height: 300px;
 }
 .blog .reverse {
   flex-direction: row-reverse;
